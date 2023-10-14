@@ -29,7 +29,11 @@ colar aqui os shields.io
 
 | test | test | test | test | test |
 | :---: | :---: | :---: | :---: | :---: |
-| Exam 02 | 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 31-03-2023 | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85-sucess" /> |
+| Exam 02 | 02 | <img src="https://img.shields.io/badge/Not yet" /> | 00-00-2023 | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
+
+<!--
+src="https://img.shields.io/badge/sucess-sucess"
+-->
 
 </div>
 
