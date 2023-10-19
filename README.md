@@ -41,5 +41,4 @@ src="https://img.shields.io/badge/sucess-sucess"
 
 </div>
 
-Special thanks to `jotavare` for the nice github profile design.
 
