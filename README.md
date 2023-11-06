@@ -1,16 +1,18 @@
 # 42-common-core
 
+<!--
+
 <p align="center">
-   <img src=" CAPA EM FALTA">
+   <img src="CAPA EM FALTA">
 </p>
 
 <p align="center">
-colar aqui os shields.io
 </p>
 
 
 
 ## ABOUT ?
+-->
 
 ## PROJECTS
 <div align="center">
