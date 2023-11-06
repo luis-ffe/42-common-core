@@ -25,7 +25,7 @@
 | [Born2beroot](https://github.com/luis-ffe/Born2beroot) | 01 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/Born2beroot" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/luis-ffe/Born2beroot" /> |
 | [minitalk](https://github.com/luis-ffe/minitalk) | 02 | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/minitalk" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | <img src="https://img.shields.io/github/last-commit/luis-ffe/minitalk" /> |
 | [fdf](https://github.com/luis-ffe/fdf) | 02 | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/fdf" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | <img src="https://img.shields.io/github/last-commit/luis-ffe/fdf" /> |
-| [pushswap](https://github.com/luis-ffe/pushswap) | 02 | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/pushswap" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | <img src="https://img.shields.io/github/last-commit/luis-ffe/pushswap" /> |
+| [push_swap](https://github.com/luis-ffe/push_swap) | 02 | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/push_swap" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | <img src="https://img.shields.io/github/last-commit/luis-ffe/push_swap" /> |
 
 </div>
 
