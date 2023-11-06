@@ -35,7 +35,7 @@
 
 <div align="center">
 
-| test | test | test | test | test |
+| Name | Rank | Status | Date | Grade |
 | :---: | :---: | :---: | :---: | :---: |
 | Exam 02 | 02 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | 23-10-2023 | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
 
