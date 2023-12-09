@@ -37,7 +37,7 @@
 
 | Name | Rank | Status | Date | Grade |
 | :---: | :---: | :---: | :---: | :---: |
-| Exam 02 | 02 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | 08-11-2023 | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
+| Exam 02 | 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 23-11-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 | Exam 03 | 03 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | ---------- | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
 | Exam 04 | 04 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | ---------- | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
 | Exam 05 | 05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | ---------- | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
