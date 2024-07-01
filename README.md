@@ -30,7 +30,8 @@
 | [minishell](https://github.com/luis-ffe/philosophers) | 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/minishell" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
 | [NetPractice](https://github.com/luis-ffe/NetPractice) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/NetPractice" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 | [cub3d](https://github.com/luis-ffe/cub3d) | 04 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/cub3d" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
-| [Cpp](https://github.com/luis-ffe/Cpp) | 04/05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/Cpp" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
+| [Cpp 1st](https://github.com/luis-ffe/Cpp) | 04 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/Cpp" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
+| [Cpp 2nd](https://github.com/luis-ffe/Cpps) | 05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/Cpps" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
 
 </div>
 
