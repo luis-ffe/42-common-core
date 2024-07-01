@@ -30,7 +30,7 @@
 | [minishell](https://github.com/luis-ffe/philosophers) | 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/philosophers" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
 | [NetPractice](https://github.com/luis-ffe/NetPractice) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/philosophers" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 | [cub3d](https://github.com/luis-ffe/cub3d) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/cub3d" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
-| [cpps](https://github.com/luis-ffe/cpps) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/cpps" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85" /> |
+| [Cpp](https://github.com/luis-ffe/Cpp) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/Cpp" /> | <img src="https://img.shields.io/badge/0%20%2F%20100%20%E2%98%85" /> |
 
 
 </div>
