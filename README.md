@@ -29,9 +29,9 @@
 | [philosophers](https://github.com/luis-ffe/philosophers) | 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/philosophers" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
 | [minishell](https://github.com/luis-ffe/philosophers) | 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/minishell" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
 | [NetPractice](https://github.com/luis-ffe/NetPractice) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/NetPractice" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
-| [cub3d](https://github.com/luis-ffe/cub3d) | 04 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/cub3d" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
-| [Cpp 1st](https://github.com/luis-ffe/Cpp) | 04 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/Cpp" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
-| [Cpp 2nd](https://github.com/luis-ffe/Cpps) | 05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/Cpps" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
+| [Cub3D](https://github.com/luis-ffe/cub3d) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/cub3d" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
+| [CPP-M1](https://github.com/luis-ffe/CPP-M1) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/CPP-M1" /> | <img src="https://img.shields.io/badge/90%20%2F%20100%20%E2%98%85-success" /> |
+| [CPP-M2](https://github.com/luis-ffe/CPP-M2) | 05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/CPP-M2" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
 
 </div>
 
@@ -44,7 +44,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 | Exam 02 | 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 23-11-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 | Exam 03 | 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 21-01-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
-| Exam 04 | 04 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | ---------- | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
+| Exam 04 | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 20-09-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 | Exam 05 | 05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | ---------- | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
 | Final 06 | 06 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | ---------- | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
 
