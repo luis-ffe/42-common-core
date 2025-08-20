@@ -1,4 +1,5 @@
-# 42-common-core (already completed)
+# **42-common-core** - Completed
+**Concluded in record time**
 
 <!--
 
@@ -31,10 +32,10 @@
 | [NetPractice](https://github.com/luis-ffe/NetPractice) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/NetPractice" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 | [Cub3D](https://github.com/luis-ffe/cub3d) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/cub3d" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
 | [CPP-M1](https://github.com/luis-ffe/CPP-M1) | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/CPP-M1" /> | <img src="https://img.shields.io/badge/90%20%2F%20100%20%E2%98%85-success" /> |
-| [CPP-M2](https://github.com/luis-ffe/CPP-M2) | 05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/CPP-M2" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
-| [WebServer](https://github.com/luis-ffe/WebServer) | 05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/WebServer" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
-| [Inception](https://github.com/luis-ffe/Inception) | 05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/Inception" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
-| [ft_transcendance](https://github.com/luis-ffe/ft_transcendance) | 06 | <img src="https://img.shields.io/badge/Not_yet-gray" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/ft_transcendance" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
+| [CPP-M2](https://github.com/luis-ffe/CPP-M2) | 05 | <img src="https://img.shields.io/badge/sucess-sucess" />|<img src="https://img.shields.io/github/languages/top/luis-ffe/CPP-M2" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> |
+| [WebServer](https://github.com/luis-ffe/WebServer) | 05 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/WebServer" /> | <img src="https://img.shields.io/badge/123%20%2F%20100-sucess" /> |
+| [Inception](https://github.com/luis-ffe/Inception) | 05 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/Inception" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-sucess" /> |
+| [ft_transcendance](https://github.com/luis-ffe/ft_transcendence) | 06 | <img src="https://img.shields.io/badge/sucess-sucess" /> |<img src="https://img.shields.io/github/languages/top/luis-ffe/ft_transcendance" /> | <img src="https://img.shields.io/badge/125%20%2F%20100-sucess" /> |
 
 </div>
 
@@ -43,13 +44,13 @@
 
 <div align="center">
 
-| Name | Rank | Status | Date | Grade |
-| :---: | :---: | :---: | :---: | :---: |
-| Exam 02 | 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 23-11-2023 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
-| Exam 03 | 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 21-01-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
-| Exam 04 | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> | 20-09-2024 | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
-| Exam 05 | 05 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | ---------- | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
-| Final 06 | 06 | <img src="https://img.shields.io/badge/Not_yet-gray" /> | ---------- | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> |
+| Name | Rank | Status | Grade |
+| :---: | :---: | :---: | :---: |
+| Exam 02 | 02 | <img src="https://img.shields.io/badge/sucess-sucess" /> |  <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
+| Exam 03 | 03 | <img src="https://img.shields.io/badge/sucess-sucess" /> |  <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
+| Exam 04 | 04 | <img src="https://img.shields.io/badge/sucess-sucess" /> |  <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
+| Exam 05 | 05 | <img src="https://img.shields.io/badge/sucess-sucess" /> |  <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
+| Final 06 | 06 | <img src="https://img.shields.io/badge/sucess-sucess" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 
 <!--
 "https://img.shields.io/github/last-commit/luis-ffe/ft_printf"
